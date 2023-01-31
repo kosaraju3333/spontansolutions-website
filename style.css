@@ -242,3 +242,13 @@ transition: 0.4s ease;
 .icons ion-icon:hover{
     color: #ff7200;
 }
+
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
